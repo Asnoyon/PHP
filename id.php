@@ -24,5 +24,13 @@
         echo $name;
     }
     ?></h2>
+    <h3> 
+        Course- <?php if(isset($course)){echo $course;} ?>
+    </h3>
+    <ul>
+        <li> Phone- <?php if(isset($phone)){echo $phone;} ?></li>
+        <li> Email- <?php if(isset($email)){echo $email;} ?></li>
+        <li> Batch_No- <?php if(isset($batch)){echo $batch;} ?></li>
+    </ul>
 </body>
 </html>
