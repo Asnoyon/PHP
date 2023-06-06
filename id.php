@@ -3,6 +3,7 @@
         $name = $_POST['std_name'];
         $phone = $_POST['std_phone'];
         $email = $_POST['std_email'];
+        $course = $_POST['std_course'];
         $name = $_POST['std_name'];
     }
 
