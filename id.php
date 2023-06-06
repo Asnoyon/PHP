@@ -19,6 +19,10 @@
     <title>Id </title>
 </head>
 <body>
-    
+    <h2> <?php 
+    if(isset($name)){
+        echo $name;
+    }
+    ?></h2>
 </body>
 </html>
