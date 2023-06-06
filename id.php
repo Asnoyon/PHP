@@ -1,5 +1,7 @@
 <?php
-
+    if(isset($_POST['submit_btn'])){
+        $name = $_POST['std_name'];
+    }
 
 ?>
 
