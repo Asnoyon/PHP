@@ -2,7 +2,7 @@
     if(isset($_POST['submit_btn'])){
         $name = $_POST['std_name'];
         $phone = $_POST['std_phone'];
-        $name = $_POST['std_name'];
+        $email = $_POST['std_email'];
         $name = $_POST['std_name'];
     }
 
