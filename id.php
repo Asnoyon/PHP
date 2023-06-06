@@ -1,6 +1,9 @@
 <?php
     if(isset($_POST['submit_btn'])){
         $name = $_POST['std_name'];
+        $phone = $_POST['std_phone'];
+        $name = $_POST['std_name'];
+        $name = $_POST['std_name'];
     }
 
 ?>
